@@ -6,7 +6,7 @@
 #### Features: Real-time typing speed calculation, error tracking, random paragraph selection, responsive design, easy content integration.
 
 ### Use
-Try it - [Click Here](https://nitish312.github.io/Stopwatch-App/)
+Try it - [Click Here](https://nitish312.github.io/Typing-Speed-Calculator/)
 
 ### Screenshot
 ![Screenshot from 2023-10-03 16-21-15](https://github.com/nitish312/Stopwatch-App/assets/94921807/5b94313a-7421-42a6-b234-65357bfec8da)
